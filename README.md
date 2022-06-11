@@ -1,18 +1,23 @@
 ### Hi there 👋 I'm Arjun
 
 
-- 🔭 Azure DevSecOps Engineer@UST
+- :briefcase: Azure DevSecOps Engineer@UST
 - 🌱 I’m currently learning FSD,Data Engineer
 - 👯 I’m looking to collaborate on AI
 - 💬 Ask me about Azure Devops,Azure DevSecOps
 - 📫 How to reach me: arjunraj.pala@gmail.com
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I love hackathons
+- ⚡ Fun fact: I ❤️ hackathons
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArjunRAj77&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunRAj77&layout=compact)](https://github.com/ArjunRAj77/ArjunRAj77)
+
+### Languages and Tools
+
 
 ## Find me around the web 🌐
-- LinkedIN : [Arjun Raj](https://www.linkedin.com/in/arjun-raj-pala/)
+- :briefcase: LinkedIN : [Arjun Raj](https://www.linkedin.com/in/arjun-raj-pala/)
 
+
+The page is under construction! Come back Later!<br>
+Made with ❤️ by Arjun Raj
