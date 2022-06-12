@@ -9,6 +9,7 @@
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I ❤️ hackathons
 - 🧙 Org : [The-Inevitables⚡](https://github.com/The-inevitables)
+- ❤️ More about me : [arjunraj77.github.io](https://arjunraj77.github.io/)
 
 ### My GitHub Stats ⚡
 
