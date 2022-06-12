@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Arjun Raj](https://www.linkedin.com/in/arjun-raj-pala/)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I ❤️ hackathons
-- 🧙 Org : [The-Inevitbles](https://github.com/The-inevitables)
+- 🧙 Org : [The-Inevitables⚡](https://github.com/The-inevitables)
 
 ### My GitHub Stats ⚡
 
@@ -18,5 +18,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunRAj77&langs_count=8&hide=Less,Hack&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
-The page is under construction! Come back Later!<br>
+The page is under construction! Come back Later!😄<br>
 Made with ❤️ by Arjun Raj
