@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I ❤️ hackathons
 - 🧙 Org : [The-Inevitables⚡](https://github.com/The-inevitables)
 - ❤️ More about me : [arjunraj77.github.io](https://arjunraj77.github.io/)
+- ⚡ HackerEarth profile : [Arjun Raj | HackerEarth Profile](https://www.hackerearth.com/@arjunraj.pala)
+- ⚡ Kaggle profile : [Arjun Raj | Kaggle Profile](https://www.kaggle.com/mrhell)
 
 ### My GitHub Stats ⚡
 
