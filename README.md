@@ -3,7 +3,7 @@
 
 - :briefcase: Azure DevSecOps Engineer@UST
 - 🌱 I’m currently learning FSD,Data Engineer
-- 👯 I’m looking to collaborate on AI
+- 👯 I’m looking to collaborate on AI and Robotics
 - 💬 Ask me about Azure Devops,Azure DevSecOps
 - 📫 How to reach me: [Arjun Raj](https://www.linkedin.com/in/arjun-raj-pala/)
 - 😄 Pronouns: Him/He
