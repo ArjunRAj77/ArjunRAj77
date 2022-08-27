@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning FSD,Data Engineer
 - 👯 I’m looking to collaborate on AI and Robotics
 - 💬 Ask me about Azure Devops,Azure DevSecOps
-- 📫 How to reach me: [Arjun Raj](https://www.linkedin.com/in/arjun-raj-pala/)
+- 📫 How to reach me: [Arjun Raj | LinkedIn Profile](https://www.linkedin.com/in/arjun-raj-pala/)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I ❤️ hackathons
 - 🧙 Org : [The-Inevitables⚡](https://github.com/The-inevitables)
