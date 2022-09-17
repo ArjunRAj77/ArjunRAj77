@@ -20,13 +20,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunRAj77&langs_count=8&hide=Less,Hack&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
-##  🍿 Main Projects
+##  💗 Main Projects
 
 Its classfied. JK, I will update this later.
 
 ## 🍿 Small Static websites
 Bored of the large complex projects?, simple static webapps are here for the rescue. Most of the sites are pretty basic on the functionality perspective.
-- [converterwidgets](https://myconverterwidgets.herokuapp.com/)
+- [ speed converter widget](https://myconverterwidgets.herokuapp.com/)
 
 ## 🍿 Featured Articles
 
