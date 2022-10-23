@@ -28,6 +28,9 @@ Its classfied. JK, I will update this later.
 Bored of the large complex projects?, simple static webapps are here for the rescue. Most of the sites are pretty basic on the functionality perspective.
 - [ speed converter widget](https://myconverterwidgets.herokuapp.com/)
 
+## 🍿 My Blog Articles
+
+Coming Sooon .. ;)
 ## 🍿 Featured Articles
 
 - [Cloud Fest Hackathon 1 by Google Cloud](https://www.hackerearth.com/challenges/hackathon/cloud-fest-hackathon-i-presented-by-google-cloud/)
