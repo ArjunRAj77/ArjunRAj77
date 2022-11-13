@@ -1,9 +1,13 @@
-### Hi there 👋 I'm Arjun
+### Hi there 👋 Welcome to GitHub Profile
+---
 
-- :briefcase: Azure DevSecOps Engineer@UST
-- 🌱 I’m currently learning FSD,Data Engineer
-- 👯 I’m looking to collaborate on AI and Robotics
-- 💬 Ask me about Azure Devops,Azure DevSecOps
+I'm Arjun Raj
+
+- 🖥️ Azure DevSecOps Engineer at UST
+- 🎓 Graduated in B.Tech Computer Science & Engineering
+- ✌️ Skilled in Azure and its services, Devops , Python ,Powershell, Bash scripting.
+- 🏳️ Always open to talk about tech, count me in for peer programming or for learning new skills.
+- 👯 I’m looking to collaborate on AI and Robotics and data science projects.
 - 📫 How to reach me: [Arjun Raj | LinkedIn Profile](https://www.linkedin.com/in/arjun-raj-pala/)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I ❤️ hackathons
@@ -22,7 +26,7 @@
 
 ##  💗 Main Projects
 
-Its classfied. JK, I will update this later.
+It's classfied. JK, I will update this later.
 
 ## 🍿 Small Static websites
 Bored of the large complex projects?, simple static webapps are here for the rescue. Most of the sites are pretty basic on the functionality perspective.
@@ -40,5 +44,5 @@ Coming Sooon .. ;)
 - [Special Prize in Rakathon'22 by Rakuten in 2022](https://xathon.mettl.com/event/Rakathon_22)
 
 
-The page is under construction! Come back Later!😄<br>
+Happy Coding😄<br>
 Made with ❤️ by Arjun Raj
