@@ -30,7 +30,7 @@ It's classfied. JK, I will update this later.
 
 ## 💗Small sized Projects
 - [A simple GUI Calculator made using Python](https://github.com/ArjunRAj77/UI-Calculator)
-- 
+ 
 ## 🍿 Small Static websites
 Bored of the large complex projects?, simple static webapps are here for the rescue. Most of the sites are pretty basic on the functionality perspective.
 - [ speed converter widget](https://myconverterwidgets.herokuapp.com/)
