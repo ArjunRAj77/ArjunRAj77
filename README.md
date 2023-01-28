@@ -43,9 +43,10 @@ It's classfied. JK, I will update this later.
 - [A simple GUI Calculator made using Python](https://github.com/ArjunRAj77/UI-Calculator)
 - [Hobby Generator](https://arjunraj77-hobby-generator-hobbygenerator-llxl7m.streamlit.app/)
 
-## 🍿 Small Static websites
-Bored of the large complex projects?, simple static webapps are here for the rescue. Most of the sites are pretty basic on the functionality perspective.
-- [ speed converter widget](https://myconverterwidgets.herokuapp.com/)
+## 🍿 Blogs
+
+- [15 Proven Tips for a Successful Hackathon Experience](https://medium.com/@arjunraj.pala/15-proven-tips-for-a-successful-hackathon-experience-a47365400a86)
+- [The Importance of Hackathons in the Tech Industry and How to Approach Each One](https://medium.com/@arjunraj.pala/the-importance-of-hackathons-in-the-tech-industry-and-how-to-approach-each-one-13dad7b01207)
 
 ## 🍿 Featured Articles
 
