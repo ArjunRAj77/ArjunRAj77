@@ -37,8 +37,12 @@ I'm Arjun Raj
 
 ##  💗 Main Projects
 
-It's classfied. JK, I will update this later.
+### FWD: Fresh Water Qualtity Detector
+> A website dedicated to help you detect the quality of the water with the help of AI model.
 
+> Website link : [Fresh Water Quality Detector](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/)
+
+> Github Repo : [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector) 
 ## 💗Small sized Projects
 - [A simple GUI Calculator made using Python](https://github.com/ArjunRAj77/UI-Calculator)
 - [Hobby Generator](https://arjunraj77-hobby-generator-hobbygenerator-llxl7m.streamlit.app/)
