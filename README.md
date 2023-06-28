@@ -4,7 +4,7 @@
 I'm Arjun Raj
 
 ### 💫 About Me:
-- 🖥️ Azure DevSecOps Engineer at UST
+- 🖥️ Azure DevSecOps Engineer at KPMG MBS
 - 🎓 Graduated in B.Tech Computer Science & Engineering
 - ✌️ Skilled in Azure and its services, DevOps , Python ,Powershell, Bash scripting.
 - 🏳️ Always open to talk about tech, count me in for peer programming or for learning new skills.
