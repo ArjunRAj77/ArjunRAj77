@@ -52,15 +52,25 @@ I'm Arjun Raj
 | 11 | Intel® oneAPI Hackathon for Open Innovation 2023 by Intel | 2023 | Fresh Water Quality Detector | Top 15 |
 ##  💗 Main Projects
 
-### 1.  FWD: Fresh Water Qualtity Detector
-> A website dedicated to help you detect the quality of the water with the help of AI model.
+### 1.  FWD: Fresh Water Quality Detector
+> A website dedicated to helping you detect the quality of the water with the help of an AI model.
 > <br><br>
 > Website link : [Fresh Water Quality Detector](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/) <br>
-> Github Repo : [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector) 
-## 💗Small sized Projects
+> Github Repo : [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector)
+
+### 2. Dragon-Tales : Short Story Generator
+>
+> <br><br>
+> Website Link : [Dragon Tales: Development Server](https://my-dragon-tales.streamlit.app/)
+>              : [Dragon Tales: Production Server](http://35.224.204.110/)
+> GitHub Repo : [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales)
+> Youtube Demo : [Dragon Tales Overview](https://youtu.be/isWk6O8Fc-c)
+
+## 💗 Small-sized Projects
 - [A simple GUI Calculator made using Python](https://github.com/ArjunRAj77/UI-Calculator)
 - [Hobby Generator](https://arjunraj77-hobby-generator-hobbygenerator-llxl7m.streamlit.app/)
 - [Rank-It : Top 10 of everything](https://arjunraj77-rank-it-app-09bzpz.streamlit.app/)
+  
 
 ## 🍿 Blogs
 
