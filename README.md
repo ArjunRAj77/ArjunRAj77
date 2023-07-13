@@ -58,12 +58,13 @@ I'm Arjun Raj
 > Website link : [Fresh Water Quality Detector](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/) <br>
 > Github Repo : [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector)
 
-### 2. Dragon-Tales : Short Story Generator
->
-> <br><br>
-> Website Link : [Dragon Tales: Development Server](https://my-dragon-tales.streamlit.app/)
->              : [Dragon Tales: Production Server](http://35.224.204.110/)
-> GitHub Repo : [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales)
+### 2. Dragon-Tales: Short Story Generator
+> Dragon Tales, a powerful and user-friendly short story generator , powered by  chatGPT . <br>
+> Website Link :
+> - [Dragon Tales: Development Server](https://my-dragon-tales.streamlit.app/)<br>
+> - [Dragon Tales: Production Server](http://35.224.204.110/)
+> 
+> GitHub Repo : [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales)<br>
 > Youtube Demo : [Dragon Tales Overview](https://youtu.be/isWk6O8Fc-c)
 
 ## 💗 Small-sized Projects
