@@ -50,6 +50,8 @@ I'm Arjun Raj
 | 9 | Rakathon'22 by Rakuten | 2022 | --- | Top 10 |
 | 10 | Striking Balance 2022 by Weavy | 2022 | Framebox | 3rd Prize |
 | 11 | Intel® oneAPI Hackathon for Open Innovation 2023 by Intel | 2023 | Fresh Water Quality Detector | Top 15 |
+| 12 | Atlas Madness Hack MongoDB Atlas on Google Cloud 2023 | 2023 | Dragon Tales: Short Story Generator | Top 50 |
+
 ##  💗 Main Projects
 
 ### 1.  FWD: Fresh Water Quality Detector
@@ -59,18 +61,23 @@ I'm Arjun Raj
 > Github Repo : [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector)
 
 ### 2. Dragon-Tales: Short Story Generator
-> Dragon Tales, a powerful and user-friendly short story generator , powered by  chatGPT . <br>
+> Dragon Tales, a powerful and user-friendly short story generator, powered by  GPT3.5. <br>
 > Website Link :
 > - [Dragon Tales: Development Server](https://my-dragon-tales.streamlit.app/)<br>
 > - [Dragon Tales: Production Server](http://35.224.204.110/)
-> 
+>
 > GitHub Repo : [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales)<br>
 > Youtube Demo : [Dragon Tales Overview](https://youtu.be/isWk6O8Fc-c)
 
+### 3. S.E.E.R: System for Efficient Encoding and Reference
+> S.E.E.R, a powerful ICD10 code and medical term finder powered by AI.
+> 
+> - Website link :[S.E.E.R](https://whatismyicdcode.streamlit.app/)
+> - Github Repo : [S.E.E.R- Overview](https://github.com/ArjunRAj77/seer)
 ## 💗 Small-sized Projects
 - [A simple GUI Calculator made using Python](https://github.com/ArjunRAj77/UI-Calculator)
 - [Hobby Generator](https://arjunraj77-hobby-generator-hobbygenerator-llxl7m.streamlit.app/)
-- [Rank-It : Top 10 of everything](https://arjunraj77-rank-it-app-09bzpz.streamlit.app/)
+- [Rank-It: Top 10 of everything](https://arjunraj77-rank-it-app-09bzpz.streamlit.app/)
   
 
 ## 🍿 Blogs
