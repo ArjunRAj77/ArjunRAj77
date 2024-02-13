@@ -51,6 +51,7 @@ I'm Arjun Raj
 | 10 | Striking Balance 2022 by Weavy | 2022 | Framebox | 3rd Prize |
 | 11 | Intel® oneAPI Hackathon for Open Innovation 2023 by Intel | 2023 | Fresh Water Quality Detector | Top 15 |
 | 12 | Atlas Madness Hack MongoDB Atlas on Google Cloud 2023 | 2023 | Dragon Tales: Short Story Generator | Top 50 |
+| 13 | CharmHealth CodeRx Hackathon by CharmHealth | 2024 | S.E.E.R: System for Efficient Encoding and Reference | Top 50 |
 
 ##  💗 Main Projects
 
@@ -89,7 +90,7 @@ I'm Arjun Raj
 
 - [Cloud Fest Hackathon 1 by Google Cloud](https://www.hackerearth.com/challenges/hackathon/cloud-fest-hackathon-i-presented-by-google-cloud/)
 - [Azure Developer League Hackathon by Microsoft in 2021](https://www.hackerearth.com/challenges/hackathon/azure-developer-league-hackathon/?utm_source=challenges-modern&utm_campaign=registered-challenges&utm_medium=right-panel)
-- [Honor Badge by Weavy for Collaboration Hacakthon by Weavy in 2020](https://www.weavy.com/developer/hackathons/collabhack20/collabhack20-theinevitables)
+- [Honor Badge by Weavy for Collaboration Hackathon by Weavy in 2020](https://www.weavy.com/developer/hackathons/collabhack20/collabhack20-theinevitables)
 - [Build Tommorrow Hackathon by weavy in 2021](https://www.weavy.com/developer/hackathons/buildtmr21-the-inevitables)
 - [Special Prize in Rakathon'22 by Rakuten in 2022](https://xathon.mettl.com/event/Rakathon_22)
 
