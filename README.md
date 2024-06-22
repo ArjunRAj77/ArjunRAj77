@@ -4,11 +4,11 @@
 I'm Arjun Raj
 
 ### 💫 About Me:
-- 🖥️ Azure DevSecOps Engineer at KPMG MBS
+- 🖥️ Azure DevSecOps Engineer at KPMG MBS, Malta
 - 🎓 Graduated in B.Tech Computer Science & Engineering
-- ✌️ Skilled in Azure and its services, DevOps , Python ,Powershell, Bash scripting.
+- ✌️ Skilled in Azure and its services, DevOps, Python, Powershell, and Bash scripting.
 - 🏳️ Always open to talk about tech, count me in for peer programming or for learning new skills.
-- 👯 I’m looking to collaborate on AI and Robotics and data science projects.
+- 👯 I’m looking to collaborate on AI, Robotics, and data science projects.
 - 📫 How to reach me: [Arjun Raj | LinkedIn Profile](https://www.linkedin.com/in/arjun-raj-pala/)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I ❤️ hackathons
