@@ -55,14 +55,18 @@ I'm Arjun Raj
 | 13 | CharmHealth CodeRx Hackathon by CharmHealth | 2024 | S.E.E.R: System for Efficient Encoding and Reference | Top 50 |
 
 ##  💗 Main Projects
+### 1.  Geo - Pulse 
+> A living map of global events powered by the Gemini model.
+> <br><br>
+> Website link : [Geo - Pulse](https://world-pulse-delta.vercel.app/) <br>
 
-### 1.  FWD: Fresh Water Quality Detector
+### 2.  FWD: Fresh Water Quality Detector
 > A website dedicated to helping you detect the quality of the water with the help of an AI model.
 > <br><br>
 > Website link : [Fresh Water Quality Detector](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/) <br>
 > Github Repo : [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector)
 
-### 2. Dragon-Tales: Short Story Generator
+### 3. Dragon-Tales: Short Story Generator
 > Dragon Tales, a powerful and user-friendly short story generator, powered by  GPT3.5. <br>
 > Website Link :
 > - [Dragon Tales: Development Server](https://my-dragon-tales.streamlit.app/)<br>
@@ -71,7 +75,7 @@ I'm Arjun Raj
 > GitHub Repo : [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales)<br>
 > Youtube Demo : [Dragon Tales Overview](https://youtu.be/isWk6O8Fc-c)
 
-### 3. S.E.E.R: System for Efficient Encoding and Reference
+### 4. S.E.E.R: System for Efficient Encoding and Reference
 > S.E.E.R, a powerful ICD10 code and medical term finder powered by AI.
 > 
 > - Website link :[S.E.E.R](https://whatismyicdcode.streamlit.app/)
