@@ -60,6 +60,12 @@ I'm Arjun Raj
 > <br><br>
 > Website link : [Geo - Pulse](https://world-pulse-delta.vercel.app/) <br>
 
+### 2.  CI CD Template Generator
+> An AI powered CICD Template Generator for DevOps usecases with standard practises.
+> <br><br>
+> Website link : [CICD Template Generator](https://cicd-template-generator.vercel.app/) <br>
+> Github Repo : [cicd-template-generator](https://github.com/ArjunRAj77/cicd-template-generator)
+
 ### 2.  FWD: Fresh Water Quality Detector
 > A website dedicated to helping you detect the quality of the water with the help of an AI model.
 > <br><br>
