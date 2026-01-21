@@ -14,7 +14,7 @@ I'm Arjun Raj
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I ❤️ hackathons
 - 🧙 Org : [The-Inevitables⚡](https://github.com/The-inevitables)
-- ❤️ More about me : [arjunraj77.github.io](https://arjunraj77.github.io/)
+- ❤️ More about me : [Arjun Raj](https://arjun-raj.lovable.app/)
 - ⚡ HackerEarth profile : [Arjun Raj | HackerEarth Profile](https://www.hackerearth.com/@arjunraj.pala)
 - ⚡ Kaggle profile : [Arjun Raj | Kaggle Profile](https://www.kaggle.com/mrhell)
 
