@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to My GitHub Profile
 ---
 
-I'm Arjun Raj
+I'm Arjun :)
 
 ### 💫 About Me:
 - 🖥️ DevOps Architect at KPMG MBS, Malta.
@@ -59,20 +59,27 @@ I'm Arjun Raj
 > A living map of global events powered by the Gemini model.
 > <br><br>
 > Website link : [Geo - Pulse](https://world-pulse-delta.vercel.app/) <br>
+> Github Repo : [world-pulse](https://github.com/ArjunRAj77/world-pulse)
 
-### 2.  CI CD Template Generator
-> An AI powered CICD Template Generator for DevOps usecases with standard practises.
+### 2. 🎨 Prompt Mastery
+> A premium, encyclopedia-style gallery of high-quality AI prompts.
+> <br><br>
+> Website link : [Prompt Mastery](https://prompt-mastery-black.vercel.app/) <br>
+> Github Repo : [prompt-mastery](https://github.com/ArjunRAj77/prompt-mastery)
+
+### 3.  CI CD Template Generator
+> An AI-powered CICD Template Generator for DevOps use cases, adhering to standard practices.
 > <br><br>
 > Website link : [CICD Template Generator](https://cicd-template-generator.vercel.app/) <br>
 > Github Repo : [cicd-template-generator](https://github.com/ArjunRAj77/cicd-template-generator)
 
-### 2.  FWD: Fresh Water Quality Detector
+### 4.  FWD: Fresh Water Quality Detector
 > A website dedicated to helping you detect the quality of the water with the help of an AI model.
 > <br><br>
 > Website link : [Fresh Water Quality Detector](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/) <br>
 > Github Repo : [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector)
 
-### 3. Dragon-Tales: Short Story Generator
+### 5. Dragon-Tales: Short Story Generator
 > Dragon Tales, a powerful and user-friendly short story generator, powered by  GPT3.5. <br>
 > Website Link :
 > - [Dragon Tales: Development Server](https://my-dragon-tales.streamlit.app/)<br>
@@ -81,11 +88,13 @@ I'm Arjun Raj
 > GitHub Repo : [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales)<br>
 > Youtube Demo : [Dragon Tales Overview](https://youtu.be/isWk6O8Fc-c)
 
-### 4. S.E.E.R: System for Efficient Encoding and Reference
+### 6. S.E.E.R: System for Efficient Encoding and Reference
 > S.E.E.R, a powerful ICD10 code and medical term finder powered by AI.
 > 
 > - Website link :[S.E.E.R](https://whatismyicdcode.streamlit.app/)
 > - Github Repo : [S.E.E.R- Overview](https://github.com/ArjunRAj77/seer)
+
+
 ## 💗 Small-sized Projects
 - [A simple GUI Calculator made using Python](https://github.com/ArjunRAj77/UI-Calculator)
 - [Hobby Generator](https://arjunraj77-hobby-generator-hobbygenerator-llxl7m.streamlit.app/)
