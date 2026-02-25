@@ -54,45 +54,18 @@ I'm Arjun :)
 | 12 | Atlas Madness Hack MongoDB Atlas on Google Cloud 2023 | 2023 | Dragon Tales: Short Story Generator | Top 50 |
 | 13 | CharmHealth CodeRx Hackathon by CharmHealth | 2024 | S.E.E.R: System for Efficient Encoding and Reference | Top 50 |
 
-##  💗 Main Projects
-### 1.  Geo - Pulse 
-> A living map of global events powered by the Gemini model.
-> <br><br>
-> Website link : [Geo - Pulse](https://world-pulse-delta.vercel.app/) <br>
-> Github Repo : [world-pulse](https://github.com/ArjunRAj77/world-pulse)
+## 💗 Main Projects
 
-### 2. 🎨 Prompt Mastery
-> A premium, encyclopedia-style gallery of high-quality AI prompts.
-> <br><br>
-> Website link : [Prompt Mastery](https://prompt-mastery-black.vercel.app/) <br>
-> Github Repo : [prompt-mastery](https://github.com/ArjunRAj77/prompt-mastery)
+| 🔢 Sl No | 🚀 Project | 📝 Description | 🌐 Website Link | 📦 Repository |
+|---------|------------|---------------|----------------|--------------|
+| **1** | **🌍 Geo - Pulse** | A living map of global events powered by the Gemini model. | [Geo - Pulse](https://world-pulse-delta.vercel.app/) | [world-pulse](https://github.com/ArjunRAj77/world-pulse) |
+| **2** | **🎨 Prompt Mastery** | A premium, encyclopedia-style gallery of high-quality AI prompts. | [Prompt Mastery](https://prompt-mastery-black.vercel.app/) | [prompt-mastery](https://github.com/ArjunRAj77/prompt-mastery) |
+| **3** | **⚙️ CI CD Template Generator** | An AI-powered CICD Template Generator for DevOps use cases, adhering to standard practices. | [CICD Template Generator](https://cicd-template-generator.vercel.app/) | [cicd-template-generator](https://github.com/ArjunRAj77/cicd-template-generator) |
+| **4** | **💧 FWD: Fresh Water Quality Detector** | A website dedicated to helping you detect water quality with the help of an AI model. | [Fresh Water Quality Detector](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/) | [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector) |
+| **5** | **🐉 Dragon-Tales: Short Story Generator** | A powerful and user-friendly short story generator powered by GPT-3.5. | [Dev Server](https://my-dragon-tales.streamlit.app/) <br> [Prod Server](http://35.224.204.110/) | [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales) |
+| **6** | **🧠 S.E.E.R: System for Efficient Encoding and Reference** | A powerful ICD10 code and medical term finder powered by AI. | [S.E.E.R](https://whatismyicdcode.streamlit.app/) | [S.E.E.R - Overview](https://github.com/ArjunRAj77/seer) |
 
-### 3.  CI CD Template Generator
-> An AI-powered CICD Template Generator for DevOps use cases, adhering to standard practices.
-> <br><br>
-> Website link : [CICD Template Generator](https://cicd-template-generator.vercel.app/) <br>
-> Github Repo : [cicd-template-generator](https://github.com/ArjunRAj77/cicd-template-generator)
 
-### 4.  FWD: Fresh Water Quality Detector
-> A website dedicated to helping you detect the quality of the water with the help of an AI model.
-> <br><br>
-> Website link : [Fresh Water Quality Detector](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/) <br>
-> Github Repo : [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector)
-
-### 5. Dragon-Tales: Short Story Generator
-> Dragon Tales, a powerful and user-friendly short story generator, powered by  GPT3.5. <br>
-> Website Link :
-> - [Dragon Tales: Development Server](https://my-dragon-tales.streamlit.app/)<br>
-> - [Dragon Tales: Production Server](http://35.224.204.110/)
->
-> GitHub Repo : [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales)<br>
-> Youtube Demo : [Dragon Tales Overview](https://youtu.be/isWk6O8Fc-c)
-
-### 6. S.E.E.R: System for Efficient Encoding and Reference
-> S.E.E.R, a powerful ICD10 code and medical term finder powered by AI.
-> 
-> - Website link :[S.E.E.R](https://whatismyicdcode.streamlit.app/)
-> - Github Repo : [S.E.E.R- Overview](https://github.com/ArjunRAj77/seer)
 
 
 ## 💗 Small-sized Projects
