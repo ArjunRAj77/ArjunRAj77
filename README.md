@@ -64,6 +64,7 @@ I'm Arjun :)
 | **4** | **💧 FWD: Fresh Water Quality Detector** | A website dedicated to helping you detect water quality with the help of an AI model. | [Fresh Water Quality Detector](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/) | [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector) |
 | **5** | **🐉 Dragon-Tales: Short Story Generator** | A powerful and user-friendly short story generator powered by GPT-3.5. | [Dev Server](https://my-dragon-tales.streamlit.app/) <br> [Prod Server](http://35.224.204.110/) | [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales) |
 | **6** | **🧠 S.E.E.R: System for Efficient Encoding and Reference** | A powerful ICD10 code and medical term finder powered by AI. | [S.E.E.R](https://whatismyicdcode.streamlit.app/) | [S.E.E.R - Overview](https://github.com/ArjunRAj77/seer) |
+| **7** | **🏥 Clini-Code** | Instant ICD-10 Search & Intelligent Medical Report Analysis | [Clini-Code](https://clini-code.vercel.app/) | [clini-code](https://github.com/ArjunRAj77/clini-code) |
 
 
 
