@@ -54,6 +54,7 @@ I'm Arjun :)
 | 12 | Atlas Madness Hack MongoDB Atlas on Google Cloud 2023 | 2023 | Dragon Tales: Short Story Generator | Top 50 |
 | 13 | CharmHealth CodeRx Hackathon by CharmHealth | 2024 | S.E.E.R: System for Efficient Encoding and Reference | Top 50 |
 
+
 ## 💗 Main Projects
 
 | 🔢 Sl No | 🚀 Project | 📝 Description | 🌐 Website Link | 📦 Repository |
@@ -65,6 +66,7 @@ I'm Arjun :)
 | **5** | **🐉 Dragon-Tales: Short Story Generator** | A powerful and user-friendly short story generator powered by GPT-3.5. | [Dev Server](https://my-dragon-tales.streamlit.app/) <br> [Prod Server](http://35.224.204.110/) | [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales) |
 | **6** | **🧠 S.E.E.R: System for Efficient Encoding and Reference** | A powerful ICD10 code and medical term finder powered by AI. | [S.E.E.R](https://whatismyicdcode.streamlit.app/) | [S.E.E.R - Overview](https://github.com/ArjunRAj77/seer) |
 | **7** | **🏥 Clini-Code** | Instant ICD-10 Search & Intelligent Medical Report Analysis | [Clini-Code](https://clini-code.vercel.app/) | [clini-code](https://github.com/ArjunRAj77/clini-code) |
+| **8** | **🐍 snake-unhinged** | A chaotic, modern browser-based Snake game | [snake-unhinged](https://snake-unhinged.vercel.app/) | [snake-unhinged](https://github.com/ArjunRAj77/snake-unhinged) |
 
 
 
