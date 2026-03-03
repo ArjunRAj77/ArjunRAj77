@@ -57,6 +57,7 @@ I'm Arjun :)
 
 ## 💗 Main Projects
 
+
 | 🔢 Sl No | 🚀 Project | 📝 Description | 🌐 Website Link | 📦 Repository |
 |---------|------------|---------------|----------------|--------------|
 | **1** | **🌍 Geo - Pulse** | A living map of global events powered by the Gemini model. | [Geo - Pulse](https://world-pulse-delta.vercel.app/) | [world-pulse](https://github.com/ArjunRAj77/world-pulse) |
@@ -67,7 +68,7 @@ I'm Arjun :)
 | **6** | **🧠 S.E.E.R: System for Efficient Encoding and Reference** | A powerful ICD10 code and medical term finder powered by AI. | [S.E.E.R](https://whatismyicdcode.streamlit.app/) | [S.E.E.R - Overview](https://github.com/ArjunRAj77/seer) |
 | **7** | **🏥 Clini-Code** | Instant ICD-10 Search & Intelligent Medical Report Analysis | [Clini-Code](https://clini-code.vercel.app/) | [clini-code](https://github.com/ArjunRAj77/clini-code) |
 | **8** | **🐍 snake-unhinged** | A chaotic, modern browser-based Snake game | [snake-unhinged](https://snake-unhinged.vercel.app/) | [snake-unhinged](https://github.com/ArjunRAj77/snake-unhinged) |
-
+| **9** | **🥚 easter-eggs** | A curated gallery of copy-pasteable easter eggs for developers. | [easter-eggs](https://easter-eggs-sigma.vercel.app/) | [easter-eggs](https://github.com/ArjunRAj77/easter-eggs) |
 
 
 
