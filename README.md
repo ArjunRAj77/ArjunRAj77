@@ -61,7 +61,7 @@ I'm Arjun :)
 |---------|------------|---------------|----------------|--------------|
 | **1** | **🌍 Geo - Pulse** | A living map of global events powered by the Gemini model. | [Geo - Pulse](https://world-pulse-delta.vercel.app/) | [world-pulse](https://github.com/ArjunRAj77/world-pulse) |
 | **2** | **🎨 Prompt Mastery** | A premium, encyclopedia-style gallery of high-quality AI prompts. | [Prompt Mastery](https://prompt-mastery-black.vercel.app/) | [prompt-mastery](https://github.com/ArjunRAj77/prompt-mastery) |
-| **3** | **⚙️ CI/CD Template Generator** | An AI-powered CI/CD Template Generator for DevOps use cases, adhering to standard practices. | [CI/CD Template Generator](https://cicd-template-generator.vercel.app/) | [cicd-template-generator](https://github.com/ArjunRAj77/cicd-template-generator) |
+| **3** | **⚙️ CI CD Template Generator** | An AI-powered CICD Template Generator for DevOps use cases, adhering to standard practices. | [CICD Template Generator](https://cicd-template-generator.vercel.app/) | [cicd-template-generator](https://github.com/ArjunRAj77/cicd-template-generator) |
 | **4** | **💧 FWD: Fresh Water Quality Detector** | A website dedicated to helping you detect water quality with the help of an AI model. | [Fresh Water Quality Detector](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/) | [FreshWaterQualityDetector](https://github.com/ArjunRAj77/FreshWaterQualityDetector) |
 | **5** | **🐉 Dragon-Tales: Short Story Generator** | A powerful and user-friendly short story generator powered by GPT-3.5. | [Dev Server](https://my-dragon-tales.streamlit.app/) <br> [Prod Server](http://35.224.204.110/) | [Dragon-Tales Repository](https://github.com/ArjunRAj77/Dragon-tales) |
 | **6** | **🧠 S.E.E.R: System for Efficient Encoding and Reference** | A powerful ICD10 code and medical term finder powered by AI. | [S.E.E.R](https://whatismyicdcode.streamlit.app/) | [S.E.E.R - Overview](https://github.com/ArjunRAj77/seer) |
@@ -69,7 +69,7 @@ I'm Arjun :)
 | **8** | **🐍 snake-unhinged** | A chaotic, modern browser-based Snake game | [snake-unhinged](https://snake-unhinged.vercel.app/) | [snake-unhinged](https://github.com/ArjunRAj77/snake-unhinged) |
 | **9** | **🥚 easter-eggs** | A curated gallery of copy-pasteable easter eggs for developers. | [easter-eggs](https://easter-eggs-sigma.vercel.app/) | [easter-eggs](https://github.com/ArjunRAj77/easter-eggs) |
 | **10** | **🍔 Foodfolio** | Foodfolio is a social platform where users track foods they have tried around the world, rate them, create lists, and share them with friends. | [Foodfolio](https://foodfolio-client.vercel.app/) | [foodfolio](https://github.com/ArjunRAj77/foodfolio) |
-
+| **11** | **📚 wiki-engine** | A lightning-fast wiki engine that turns your markdown into a highly searchable, distraction-free knowledge base. | [wiki-engine](https://wiki-engine-nu.vercel.app/) | [wiki-engine](https://github.com/ArjunRAj77/wiki-engine) |
 
 
 ## 💗 Small-sized Projects
