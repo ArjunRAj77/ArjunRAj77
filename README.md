@@ -55,7 +55,7 @@ I'm Arjun :)
 | 13 | CharmHealth CodeRx Hackathon by CharmHealth | 2024 | S.E.E.R: System for Efficient Encoding and Reference | Top 50 |
 
 
-## 💗 Main Projects
+## 💗 Main Mediocre Projects
 
 | 🔢 Sl No | 🚀 Project | 📝 Description | 🌐 Website Link | 📦 Repository |
 |---------|------------|---------------|----------------|--------------|
@@ -72,7 +72,7 @@ I'm Arjun :)
 | **11** | **📚 wiki-engine** | A lightning-fast wiki engine that turns your markdown into a highly searchable, distraction-free knowledge base. | [wiki-engine](https://wiki-engine-nu.vercel.app/) | [wiki-engine](https://github.com/ArjunRAj77/wiki-engine) |
 
 
-## 💗 Small-sized Projects
+## 💗 Pocket Projects
 - [A simple GUI Calculator made using Python](https://github.com/ArjunRAj77/UI-Calculator)
 - [Hobby Generator](https://arjunraj77-hobby-generator-hobbygenerator-llxl7m.streamlit.app/)
 - [Rank-It: Top 10 of everything](https://arjunraj77-rank-it-app-09bzpz.streamlit.app/)
