@@ -49,6 +49,7 @@ I'm Arjun :)
 
 
 ## 💗 Main Mediocre Projects
+> _Medium to large projects built for learning, experimentation, and fun_ 🎯
 
 | 🔢 Sl No | 🚀 Project | 📝 Description | 🌐 Website Link | 📦 Repository |
 |---------|------------|---------------|----------------|--------------|
@@ -74,9 +75,14 @@ I'm Arjun :)
 
 
 ## 💗 Pocket Projects
-- [A simple GUI Calculator made using Python](https://github.com/ArjunRAj77/UI-Calculator)
-- [Hobby Generator](https://arjunraj77-hobby-generator-hobbygenerator-llxl7m.streamlit.app/)
-- [Rank-It: Top 10 of everything](https://arjunraj77-rank-it-app-09bzpz.streamlit.app/)
+> _Small projects built for learning, experimentation, and fun_ 🎯
+
+| # | Project | Description | Link |
+|---|--------|------------|------|
+| 1 | **GUI Calculator (Python)** | A simple desktop calculator built using Python with a graphical user interface for basic arithmetic operations. | [View Project](https://github.com/ArjunRAj77/UI-Calculator) |
+| 2 | **Hobby Generator** | A fun web app that suggests random hobbies to explore, helping users discover new interests. | [Try App](https://arjunraj77-hobby-generator-hobbygenerator-llxl7m.streamlit.app/) |
+| 3 | **Rank-It: Top 10 of Everything** | An interactive app that lets users explore and rank top 10 lists across various categories. | [Try App](https://arjunraj77-rank-it-app-09bzpz.streamlit.app/) |
+| 4 | **Daily Ledger** | A living repository that adds one meaningful entry per day—combining the date, a thoughtful insight, and a brief signal from the world—automatically updated via script. | [View Project](https://github.com/ArjunRAj77/daily-ledger) |
   
 
 ## 🍿 Blogs
