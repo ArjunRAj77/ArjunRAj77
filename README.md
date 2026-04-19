@@ -5,7 +5,7 @@ I'm Arjun :)
 
 ### 💫 About Me:
 - 🖥️ DevOps Architect at KPMG MBS, Malta.
-- ✌️ Portfolio Website: [Arjun Raj](https://portfolio-3d-gamma-livid.vercel.app/)
+- ✌️ Portfolio Website: [Arjun Raj](https://arjun-raj.xyz/)
 - 🎓 Graduated in B.Tech Computer Science & Engineering.
 - ✌️ Skilled in Azure and its services, DevOps, Python, Powershell, and Bash scripting.
 - 🏳️ Always open to talk about tech, count me in for peer programming or for learning new skills.
