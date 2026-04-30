@@ -70,7 +70,7 @@ I'm Arjun :)
   
 | App Name | Platform | Status | Beta Access | Links |
 |----------|----------|--------|------------|-------|
-| **TapCode: Learn Morse** | 🤖 Android (Google Play) | 🧪 Beta Testing | 🔒 Join Google Group required | [Play Store](https://play.google.com/store/apps/details?id=com.aj.tapcodev2) • [Google Group](https://groups.google.com/g/tap-code) |
+| **TapCode: Learn Morse** | 🤖 Android (Google Play) | 🧪Live | Accessible to all | [Play Store](https://play.google.com/store/apps/details?id=com.aj.tapcodev2) |
 
 
 ## 💗 Pocket Projects
