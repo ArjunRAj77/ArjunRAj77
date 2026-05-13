@@ -72,6 +72,11 @@ I'm Arjun :)
 |----------|----------|--------|------------|-------|
 | **TapCode: Learn Morse** | 🤖 Android (Google Play) | 🧪Live | Accessible to all | [Play Store](https://play.google.com/store/apps/details?id=com.aj.tapcodev2) |
 
+## 📚 Published Books
+
+| 🔢 Sl No | 📖 Book Title | 📝 Description | 🌐 Book Link |
+|---------|---------------|----------------|--------------|
+| **1** | **⏳ The Time Traveler’s Wealth Guide** | Every fortune in history, and all you need is a time machine. | [View on Amazon](https://www.amazon.co.uk/dp/B0H1JVSG15) |
 
 ## 💗 Pocket Projects
 > _Small projects built for learning, experimentation, and fun_ 🎯
