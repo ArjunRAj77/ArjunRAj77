@@ -45,7 +45,7 @@ I'm Arjun :)
 | 13 | CharmHealth CodeRx Hackathon by CharmHealth | 2024 | S.E.E.R: System for Efficient Encoding and Reference | Top 50 |
 
 
-## 💗 Main Mediocre Projects
+## 💗 Featured Projects
 > _Medium to large projects built for learning, experimentation, and fun_ 🎯
 
 | 🔢 Sl No | 🚀 Project | 📝 Description | 🌐 Website Link | 📦 Repository |
