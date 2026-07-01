@@ -65,6 +65,7 @@ I'm Arjun :)
 | **13** | **🌍 SeismicRadar** | SeismicRadar is a real-time, global earthquake monitoring dashboard. | [Seismic Radar](https://seismic-radar.vercel.app/) | [SeismicRadar](https://github.com/ArjunRAj77/SeismicRadar) |
 | **14** | **📝 Storyboard Tool** | A zero-dependency, browser-based storyboard app for film pre-production. | [Storyboard Tool](https://storyboard-tool-seven.vercel.app/) | [storyboard-tool](https://github.com/ArjunRAj77/storyboard-tool) |
 | **15** | **☯️ Tree of Life** | Tree of Life is a game-style skill atlas of a human life. | [Tree Of Life](https://tree-of-life-chi.vercel.app/) | [tree-of-life](https://github.com/ArjunRAj77/tree-of-life) |
+| **16** | **🔥 Heat Wave** | Global Climate control Dashboard | [Heat Watch](https://heat-watch-phi.vercel.app/) | [heat-watch](https://github.com/ArjunRAj77/heat-watch) |
 
 ## 📱 Mobile Applications Projects
 
