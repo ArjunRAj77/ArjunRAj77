@@ -67,6 +67,7 @@ I'm Arjun :)
 | **15** | **☯️ Tree of Life** | Tree of Life is a game-style skill atlas of a human life. | [Tree Of Life](https://tree-of-life-chi.vercel.app/) | [tree-of-life](https://github.com/ArjunRAj77/tree-of-life) |
 | **16** | **🔥 Heat Wave** | Global Climate control Dashboard | [Heat Watch](https://heat-watch-phi.vercel.app/) | [heat-watch](https://github.com/ArjunRAj77/heat-watch) |
 | **17** | **⛯ Vegvisir** | Real-time disaster intelligence for Kerala & South India | [Vegvisir](https://vegvisir-murex.vercel.app/) | [Vegvisir](https://github.com/ArjunRAj77/Vegvisir) |
+| **18** | **⛯◍ Ouroboros** | A verified knowledge graph of mathematics | [Ouroboros](https://ouroboros-inky.vercel.app/) | [Ouroboros](https://github.com/ArjunRAj77/Ouroboros) |
 
 ## 📱 Mobile Applications Projects
 
