@@ -31,7 +31,7 @@ fun_fact: "I ❤️ hackathons — done 13 so far"
 also: [wrote a book 📚, made an Android app 📱, take photos sometimes 📸]
 ```
 
-> 💡 More about me → [arjun-raj.lovable.app](https://arjun-raj.lovable.app/) • Reach me → [LinkedIn](https://www.linkedin.com/in/arjun-raj-pala/)
+> 💡 More about me → [https://arjun-raj.xyz/](https://arjun-raj.xyz/) • Reach me → [LinkedIn](https://www.linkedin.com/in/arjun-raj-pala/)
 
 ## 🧰 Tech Stack
 
