@@ -68,6 +68,7 @@ I'm Arjun :)
 | **16** | **🔥 Heat Wave** | Global Climate control Dashboard | [Heat Watch](https://heat-watch-phi.vercel.app/) | [heat-watch](https://github.com/ArjunRAj77/heat-watch) |
 | **17** | **⛯ Vegvisir** | Real-time disaster intelligence for Kerala & South India | [Vegvisir](https://vegvisir-murex.vercel.app/) | [Vegvisir](https://github.com/ArjunRAj77/Vegvisir) |
 | **18** | **◍ Ouroboros** | A verified knowledge graph of mathematics | [Ouroboros](https://ouroboros-inky.vercel.app/) | [Ouroboros](https://github.com/ArjunRAj77/Ouroboros) |
+| **19** | **⬡ Vader** | Music visualizer chrome extension |--- | [Vader](https://github.com/ArjunRAj77/vader) |
 
 ## 📱 Mobile Applications Projects
 
