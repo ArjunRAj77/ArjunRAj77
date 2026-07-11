@@ -1,9 +1,9 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arjun%20Raj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Architect%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Hackathon%20Addict&descAlignY=55&descSize=18)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arjun%20Raj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Automating+clouds+by+day+%E2%98%81%EF%B8%8F;Shipping+side-projects+by+night+%F0%9F%9A%80;13+hackathons.+5+podiums.+Still+hungry.;Always+up+for+peer+programming+%F0%9F%91%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=38BDAE&center=true&vCenter=true&width=600&lines=DevOps+Architect%2C+based+in+Malta;I+build+tools%2C+apps%2C+and+the+occasional+game;Currently+exploring+AI+agents)](https://git.io/typing-svg)
 
 <!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/arjun-raj-pala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -21,17 +21,17 @@
 
 ```yaml
 name: Arjun Raj
-role: DevOps Architect @ KPMG MBS, Malta 🇲🇹
+role: DevOps Architect @ KPMG MBS, Malta
 education: B.Tech, Computer Science & Engineering
-current_obsessions: [AI Agents, Robotics, Data Science]
-open_to: [collaboration, peer programming, tech talk at 2am]
+into_lately: [AI agents, robotics, data science]
+open_to: [collabs, peer programming, a good tech chat]
 org: The-Inevitables ⚡ (github.com/The-inevitables)
 pronouns: He/Him
-fun_fact: "I ❤️ hackathons — 13 and counting"
-side_quests: [published author 📚, Android dev 📱, photographer 📸]
+fun_fact: "I ❤️ hackathons — done 13 so far"
+also: [wrote a book 📚, made an Android app 📱, take photos sometimes 📸]
 ```
 
-> 💡 More about me → [https://arjun-raj.xyz/](https://arjun-raj.xyz/) • Reach me → [LinkedIn](https://www.linkedin.com/in/arjun-raj-pala/)
+> 💡 More about me → [arjun-raj.lovable.app](https://arjun-raj.lovable.app/) • Reach me → [LinkedIn](https://www.linkedin.com/in/arjun-raj-pala/)
 
 ## 🧰 Tech Stack
 
@@ -62,16 +62,22 @@ side_quests: [published author 📚, Android dev 📱, photographer 📸]
 ## 📊 GitHub Stats
 
 <div align="center">
+  <!-- <table border="0">
+    <tr border="0">
+      <td align="center" border="0">
+        <img src="https://github-readme-stats.vercel.app/api?username=ArjunRAj77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" height="165"/>
+      </td>
+      <td align="center" border="0">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunRAj77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" height="165"/>
+      </td>
+    </tr>
+  </table> -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArjunRAj77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=ArjunRAj77&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunRAj77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ArjunRAj77&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunRAj77&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArjunRAj77&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunRAj77&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%"/>
 
 </div>
 
@@ -166,7 +172,7 @@ side_quests: [published author 📚, Android dev 📱, photographer 📸]
 
 | | Title | What it is | Link |
 |---|-------|-----------|------|
-| 📱 | **TapCode: Learn Morse** | Android app — live on Google Play | [Play Store](https://play.google.com/store/apps/details?id=com.aj.tapcodev2) |
+| 📱 | **TapCode: Learn Morse** | Android app — live on Google Play | [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.aj.tapcodev2) |
 | 📖 | **The Time Traveler's Wealth Guide** | Every fortune in history — all you need is a time machine | [Amazon](https://www.amazon.co.uk/dp/B0H1JVSG15) |
 
 ## ✍️ Blog Posts
@@ -178,7 +184,7 @@ side_quests: [published author 📚, Android dev 📱, photographer 📸]
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ArjunRAj77/ArjunRAj77/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/ArjunRAj77/ArjunRAj77/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
 
