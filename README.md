@@ -83,7 +83,7 @@ also: [wrote a book 📚, made an Android app 📱, take photos sometimes 📸]
 
 ## 🚀 Featured Projects
 
-> _Six highlights — the projects I'm most proud of._ 🎯
+> _Seven highlights — the projects I'm most proud of._ 🎯
 
 | | Project | What it does | Links |
 |---|---------|--------------|-------|
@@ -93,9 +93,10 @@ also: [wrote a book 📚, made an Android app 📱, take photos sometimes 📸]
 | ⛯ | **Vegvisir** | Real-time disaster intelligence for Kerala & South India | [Live](https://vegvisir-murex.vercel.app/) • [Repo](https://github.com/ArjunRAj77/Vegvisir) |
 | ◍ | **Ouroboros** | A verified knowledge graph of mathematics | [Live](https://ouroboros-inky.vercel.app/) • [Repo](https://github.com/ArjunRAj77/Ouroboros) |
 | 🧠 | **S.E.E.R** | AI-powered ICD-10 code & medical term finder | [Live](https://whatismyicdcode.streamlit.app/) • [Repo](https://github.com/ArjunRAj77/seer) |
+| ¶ | **Red Letter** |Events happening around Malta. | [Live](https://red-letter-pi.vercel.app/malta) • [Repo](https://github.com/ArjunRAj77/redLetter) |
 
-<details>
-<summary><b>📂 More Projects — 13 more builds</b></summary>
+
+> <b>📂 More Projects — 13 more builds</b></summary>
 <br>
 
 | | Project | Description | Links |
@@ -114,7 +115,7 @@ also: [wrote a book 📚, made an Android app 📱, take photos sometimes 📸]
 | 🔥 | **Heat Wave** | Global climate dashboard | [Live](https://heat-watch-phi.vercel.app/) • [Repo](https://github.com/ArjunRAj77/heat-watch) |
 | ⬡ | **Vader** | Music visualizer Chrome extension | [Repo](https://github.com/ArjunRAj77/vader) |
 
-</details>
+
 
 <details>
 <summary><b>🧪 Pocket Projects — small builds for learning & fun</b></summary>
