@@ -89,11 +89,11 @@ also: [wrote a book 📚, made an Android app 📱, take photos sometimes 📸]
 |---|---------|--------------|-------|
 | 🌍 | **Geo-Pulse** | A living map of global events powered by Gemini | [Live](https://world-pulse-delta.vercel.app/) • [Repo](https://github.com/ArjunRAj77/world-pulse) |
 | 🏥 | **Clini-Code** | Instant ICD-10 search & intelligent medical report analysis | [Live](https://clini-code.vercel.app/) • [Repo](https://github.com/ArjunRAj77/clini-code) |
-| ⚙️ | **CI/CD Template Generator** | AI-powered pipeline templates that follow DevOps best practices | [Live](https://cicd-template-generator.vercel.app/) • [Repo](https://github.com/ArjunRAj77/cicd-template-generator) |
 | ⛯ | **Vegvisir** | Real-time disaster intelligence for Kerala & South India | [Live](https://vegvisir-murex.vercel.app/) • [Repo](https://github.com/ArjunRAj77/Vegvisir) |
 | ◍ | **Ouroboros** | A verified knowledge graph of mathematics | [Live](https://ouroboros-inky.vercel.app/) • [Repo](https://github.com/ArjunRAj77/Ouroboros) |
 | 🧠 | **S.E.E.R** | AI-powered ICD-10 code & medical term finder | [Live](https://whatismyicdcode.streamlit.app/) • [Repo](https://github.com/ArjunRAj77/seer) |
 | ¶ | **Red Letter** |Events happening around Malta. | [Live](https://red-letter-pi.vercel.app/malta) • [Repo](https://github.com/ArjunRAj77/redLetter) |
+| ⛯ | **Tech Dex** | Tech Events happening around EU. | [Live](https://tech-dex-sand.vercel.app/) • [Repo](https://github.com/ArjunRAj77/techDex) |
 
 
 > <b>📂 More Projects — 13 more builds</b></summary>
@@ -101,6 +101,7 @@ also: [wrote a book 📚, made an Android app 📱, take photos sometimes 📸]
 
 | | Project | Description | Links |
 |---|---------|-------------|-------|
+| ⚙️ | **CI/CD Template Generator** | AI-powered pipeline templates that follow DevOps best practices | [Live](https://cicd-template-generator.vercel.app/) • [Repo](https://github.com/ArjunRAj77/cicd-template-generator) |
 | 🎨 | **Prompt Mastery** | Encyclopedia-style gallery of high-quality AI prompts | [Live](https://prompt-mastery-black.vercel.app/) • [Repo](https://github.com/ArjunRAj77/prompt-mastery) |
 | 💧 | **Fresh Water Quality Detector** | AI-assisted water quality detection | [Live](https://arjunraj77-freshwaterqualitydetector-fwd-g5t41i.streamlit.app/) • [Repo](https://github.com/ArjunRAj77/FreshWaterQualityDetector) |
 | 🐉 | **Dragon-Tales** | GPT-powered short story generator | [Live](https://my-dragon-tales.streamlit.app/) • [Repo](https://github.com/ArjunRAj77/Dragon-tales) |
